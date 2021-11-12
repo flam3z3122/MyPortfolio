@@ -136,7 +136,9 @@ body{
     height: 50px;
     padding: 10px;
 }
-
+.Portfolio{
+    margin-top: 50px;
+}
 .Portfolio h1{
     color: rgb(27, 94, 56);
    font-family: sans-serif;
@@ -209,6 +211,9 @@ body{
     margin-right: 15px;
     color: rgb(58, 53, 53);
 }
+.aboutme{
+    margin-top: 50px;
+}
 
 .aboutme h1{
     color: rgb(27, 94, 56);
@@ -249,7 +254,9 @@ body{
     padding-top: 25px;
     font-family: sans-serif;
 }
-
+.contact{
+    margin-top: 50px;
+}
 .contact h1{
     color: rgb(27, 94, 56);
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
